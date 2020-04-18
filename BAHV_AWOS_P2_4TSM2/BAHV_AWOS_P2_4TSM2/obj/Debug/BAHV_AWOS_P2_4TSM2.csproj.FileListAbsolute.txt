@@ -1,0 +1,729 @@
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+C:\Users\victo\Escritorio\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+D:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CoreCompileInputs.cache
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+I:\Aplicaciones Web Orientadas a Servicios\Segundo Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CoreCompileInputs.cache
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+I:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+E:\Uttec\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+E:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+D:\Aplicaciones Web Orientadas a Servicios\Tercer Parcial\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll.config
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BAHV_AWOS_P2_4TSM2.pdb
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.exe.config
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csc.rsp
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.exe.config
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\csi.rsp
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.Managed.Core.targets
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.AppContext.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Collections.Immutable.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Console.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Compression.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.IO.Pipes.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Reflection.Metadata.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.AccessControl.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Claims.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Security.Principal.Windows.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.ValueTuple.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XmlDocument.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.exe.config
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\vbc.rsp
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\roslyn\VBCSCompiler.exe.config
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.Web.Infrastructure.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Google.Protobuf.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Renci.SshNet.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\BouncyCastle.Crypto.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Data.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\MySql.Web.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Razor.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Deployment.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Webpages.Razor.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Helpers.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Mvc.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Newtonsoft.Json.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Net.Http.Formatting.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\System.Web.Http.WebHost.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Razor.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Deployment.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Webpages.Razor.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Helpers.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Mvc.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Net.Http.Formatting.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\bin\es\System.Web.Http.WebHost.resources.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csprojAssemblyReference.cache
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CoreCompileInputs.cache
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.csproj.CopyComplete
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.dll
+H:\ARACELI\BAHV_AWOS_P2_4TSM2\BAHV_AWOS_P2_4TSM2\obj\Debug\BAHV_AWOS_P2_4TSM2.pdb

@@ -1,0 +1,12 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background: url(../Img/List.gif) no-repeat center top;
+    font-family: sans-serif;
+    height: 100vh;
+    background-size: cover;
+}
+
+table {
+    background: #ffbb00;
+}

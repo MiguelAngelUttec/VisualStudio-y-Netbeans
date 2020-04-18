@@ -1,0 +1,90 @@
+﻿
+table {
+    width: 500px;
+    height: 200px;
+    background: rgba(35,54,105,0.8);
+    color: black;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+    margin:20px 20px 20px 100px;
+    box-sizing: border-box;
+}
+
+.btn {
+    font-family: cursive;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn {
+    font-family: cursive;
+    font-size: 15px;
+    border-radius: 20px;
+    color: white;
+    background: blueviolet;
+    padding: 20px;
+}
+.modi {
+    background: url(../img/Fondos/Found15.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.mostra {
+    background: blue;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+body {
+    background-attachment: fixed;
+    width: 600px;
+    height: 600px;
+    margin: 0;
+    background: url(../img/Fondos/Found27.jpg);
+    background-size: 120%;
+    animation: movimiento 15s infinite linear alternate;
+}
+
+@keyframes movimiento {
+    from {
+        background-position: bottom left;
+    }
+
+    to {
+        background-position: top right;
+    }
+}
+
+h1 {
+    color: blue;
+    margin: 20px 20px 20px 250px;
+}
+
+input.btn {
+    color: blue;
+}
+
+label {
+    color: white;
+}
+
+.btnp {
+    font-family: cursive;
+    font-size: 30px;
+    border-radius: 20px;
+    color: white;
+    background:red;
+    padding: 20px;
+}
+.btno {
+    font-family: cursive;
+    font-size: 50px;
+    border-radius: 90px;
+    color: white;
+    background: blue;
+    padding: 20px;
+    height: 72px;
+
+}
+

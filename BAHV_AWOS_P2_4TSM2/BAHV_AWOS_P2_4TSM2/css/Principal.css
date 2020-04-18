@@ -1,0 +1,12 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background: url(../Img/pricipal.gif) center top;
+    font-family: sans-serif;
+    height: 100vh;
+    background-size: cover;
+}
+
+table {
+    background: #ffbb00;
+}

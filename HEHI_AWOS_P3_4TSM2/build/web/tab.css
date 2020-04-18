@@ -1,0 +1,92 @@
+﻿
+table {
+    width: 500px;
+    height: 200px;
+    background: rgba(35,54,105,0.8);
+    color: black;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+    margin:20px 20px 20px 100px;
+    box-sizing: border-box;
+}
+
+.btn {
+    font-family: cursive;
+    ;
+    border-radius: 5px;
+    color: white;
+}
+
+.btnO {
+    font-family: cursive;
+    font-size: 15px;
+    border-radius: 20px;
+    color: white;
+    background: blueviolet;
+    padding: 20px;
+}
+.modi {
+    background: url(img/img1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.mostra {
+    background: blue;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.prro {
+    background: url(img1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: chocolate;
+    margin: 20px 20px 20px 250px;
+}
+
+input.btn {
+    color: blue;
+}
+
+label {
+    color: white;
+}
+
+.btnp {
+    font-family: cursive;
+    font-size: 15px;
+    border-radius: 20px;
+    color: white;
+    background:red;
+    padding: 20px;
+}
+.btno {
+    font-family: cursive;
+    font-size: 30px;
+    border-radius: 20px;
+    color: white;
+    background: green;
+    padding: 20px;
+    height: 72px;
+}
+.btne {
+    
+    font-size: 25px;
+    border-radius: 20px;
+    color: black;
+    background: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+.butt {
+    font-size: 15px;
+    border-radius: 50px;
+    font-size: 30px;
+    color: black;
+    background: url(img/gif15.gif);
+    padding: 5px;
+}

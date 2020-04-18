@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <link href="estilos/reeee.css" rel="stylesheet" type="text/css"/>
+        <title>Reproductor</title>
+         <link  href="img/play2.png"  rel="Shortcut icon"/>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="recib.js" >
+        </script>
+        <style>
+            body{background:url(img/wallas4.gif) }
+            .but{
+                border: 0;
+            background:url(img/play2.png);
+               margin: 20px;
+             padding: 30px;
+             background-size: 100% 100%;
+            }
+            .buti{
+                 border: 0;
+            background:url(img/paupau.png);
+            margin: 20px;
+             padding: 30px;
+             background-size: 100% 100%;
+            }
+            
+            img{border-radius: 40px;}
+          .btnO{font-family: cursive;
+    font-size: 15px;
+    border-radius: 20px;
+    color: white;
+    background:blueviolet;
+padding:  20px; }
+          .select-css {
+     background:url(img/gif17.gif);
+     color: white;
+     border: none;
+     text-align: center;
+     font-size: 20px;
+     height: 50px;
+     padding: 10px;
+     width: 250px;
+  }
+  .innn{
+      background:url(img/gif16.gif);
+      border-radius: 30px;
+      text-align: center;
+     font-size: 26px;
+     height: 50px;
+     padding: 5px;
+     width: 250px;
+     border: 0px;
+  }
+  h1{color: #FFF;}
+        </style>
+    </head>
+    <body>
+        <br>
+       <form>
+           <center>
+          <!---  <select onchange="mostrar(this.value)" class="select-css" id="tenis" > -->
+                
+                 <select onchange="mostrar(this.value)" class="select-css" id="tenis" >
+                <option value="0" >Elige una cancion</option>
+              
+            </select>
+                </center>
+         
+           <center>
+               <img src="img/deslis.gif" width="50" height="50" alt=""/>
+           <table>
+                <tr>
+                               <th><label>Artistas</label></th>
+                               <td><input class="innn" type="text" id="autor"></td>
+               
+                            <td><img id="foto" src="" alt=""  width="200" height="200"></td>
+                         </tr>
+                     
+                        
+                            
+                            
+                            
+                            <a href="altReproductor.jsp"> <input class="btnO" type="button" value="Registrar una cancion"></a>
+
+        
+                  </center>
+       </form>
+    </body>
+</html>
